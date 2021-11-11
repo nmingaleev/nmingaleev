@@ -42,6 +42,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nikita-mingaleev-422357100/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nikita%20Mingaleev-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.linkedin.com/in/nikita-mingaleev-422357100/"><img alt="Medium" src="https://img.shields.io/badge/Medium-Nikita%20Mingaleev-blue?style=flat-square&logo=medium"></a>
+<a href="https://nmingaleev.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-Nikita%20Mingaleev-blue?style=flat-square&logo=medium"></a>
 <a href="mailto:mingaleevnikita@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mingaleevnikita@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
