@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 💼 &nbsp; Working as a Senior Frontend Developer at METRO.Digital.
+- 💼 &nbsp; Working as a Frontend Developer at AWS.
 - 🌱 &nbsp; Learning more about Architecture, Systems Design and Game Development.
 - ✍️ &nbsp; Write about Frontend on [Medium](https://nmingaleev.medium.com/).
 
